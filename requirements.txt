@@ -1,4 +1,4 @@
-flask
-pymongo[srv]
+Flask==3.0.3
+pymongo[srv]==4.7.3
 python-dotenv
 gunicorn
